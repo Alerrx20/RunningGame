@@ -1,0 +1,11 @@
+Model Information:
+* title:	[Project Catnip] Voxel Ninja Run
+* source:	https://sketchfab.com/3d-models/project-catnip-voxel-ninja-run-dab3f156b5dd498490c20bf21a0ded6b
+* author:	Raushen (https://sketchfab.com/Raushen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[Project Catnip] Voxel Ninja Run" (https://sketchfab.com/3d-models/project-catnip-voxel-ninja-run-dab3f156b5dd498490c20bf21a0ded6b) by Raushen (https://sketchfab.com/Raushen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
